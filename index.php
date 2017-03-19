@@ -9,7 +9,7 @@
 
 	$user = new User();
 	$validate = new LindseyValidate();
-	$model = new LindseyModel('localhost', 'tyler_admin', 'september9', 'tyler_harvdash');
+	$model = new LindseyModel('localhost', 'site_admin', 'LindseyWard#245%!', 'tyler_ward');
 
 	loadPage($model, $user, $validate);
 
